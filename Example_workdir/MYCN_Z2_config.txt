@@ -1,0 +1,10 @@
+s=MYCN_Z2_samplelist
+c=MYCN_Z2_controllist
+ori=/local/users/nfresma/multiseq3_20210730/WES_fastqs
+work=/local/users/Bastiaan/Projects/Neuro_zf_hum/WES/MYCN_Z2_workdir
+res=/local/users/Bastiaan/Projects/CRC_lin/Data/WES_resources
+script=/local/users/Bastiaan/Projects/CRC_lin/liverevo/calling
+ref=Homo_sapiens_assembly38.fasta
+targ=SureSelectV7.S31285117_Covered
+lib=SureSelectV7
+pat=LT01
